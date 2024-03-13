@@ -1,7 +1,7 @@
 <!--profile visit count-->
 <div align="right">
   
-[![](https://visitcount.itsvg.in/api?id=KerimTarikQE2282&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mikiyaset&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
   
 </div>
   
@@ -18,7 +18,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/mikiyasET/mikiyaset/blob/9a5f9eaa02b43273af84a144a0ce6f539e8e7f2f/mikiyasET.svg"
        alt="snake" /></a>
 </div>
 
