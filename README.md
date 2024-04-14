@@ -1,135 +1,74 @@
-<!--profile visit count-->
-<div align="right">
-  
-[![](https://visitcount.itsvg.in/api?id=mikiyaset&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-  
-</div>
-  
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Kerim</h1></summary>
-  </ul>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kerim+Tarik!;" />
+</h1>
 
+<h3 align="center">A passionate software developer from Ethiopia</h3>
 
-<!--- snake -->
+<br/>
+
 <div align="center">
-  <img  src="https://github.com/mikiyasET/mikiyaset/blob/9a5f9eaa02b43273af84a144a0ce6f539e8e7f2f/mikiyasET.svg"
-       alt="snake" /></a>
-</div>
+ 
+ 🔭 I’m currently working on **React, Nodejs, mongooes**
+
+ 🔳 I work on 3d art and 3d websites
+
+ 🤖 I like developing backend
+
+ 📫 Feel free to reach me out **Kerim.Tarik.qe2282@gmail.com**
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Lets crack the Code, Change the together</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **React, Nodejs, mongooes**
-
-- 🔳 I work on 3d art and 3d websites
-
-- 🤖 I like developing backend
-
-- 📫 Feel free to reach me out **Kerim.Tarik.qe2282@gmail.com**
-
-<!--Intro end-->
-<br />
-<samp>
-  <a href="https://github.com/KerimTarikQE2282">
-    <img alt="Kerim's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KerimTarikQE2282&theme=github-compact&hide_border=true" />
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:kerim.tarik.qe2282@gmai.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <br/>
-</samp>
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="0">
-<td width="50%" align="center">
+  <a href="https://www.linkedin.com/in/kerim-tarik-857a701b6/?originalSubdomain=et" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KerimTarikQE2282&theme=dark&show_icons=true&count_private=true&hide_border=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KerimTarikQE2282&theme=dark&hide_border=true" /> 
-</td>
+</div>
 
-<td width="50%" align="center">
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+   <img src="https://skillicons.dev/icons?i=nodejs,flutter,c,cpp,css,tailwind,docker,express,figma,firebase,github,html,idea,java,js,atom,cs,django,ai,ps,jest,kali,linux,md,materialui,mongodb,mysql,nextjs,redis,postman,py,react,redux,tailwind,vite,ts,vscode,blender,jquery,wordpress,figma,go,ruby,qt&perline=10" />
+</div>
 
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=KerimTarikQE2282&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+  <br/><br/><br/>
+</div>
 
-<!--- trophy (start) -->
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=KerimTarikQE2282&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,flutter,c,cpp,css,tailwind,docker,express,figma,firebase,github,html,idea,java,js,atom,cs,django,ai,ps,jest,kali,linux,md,materialui,mongodb,mysql,nextjs,redis,postman,py,react,redux,tailwind,vite,ts,vscode,blender,jquery,wordpress,figma,go,ruby,qt&perline=10" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<!--icons and links-->
-<p align="center">
-<!-- <a href="https://www.linkedin.com/in/kaleab-teweldbrhan-88325712a" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/kaleabteweld3" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://t.me/u_see" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="hashnode" height="50" width="50" /></a> -->
-  <!-- ### Hi there 👋
+<br/><br/>
 
-<!--
-**KerimTarikQE2282/KerimTarikQE2282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-</p>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
+<br/>
